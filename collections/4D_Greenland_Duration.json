@@ -39,7 +39,7 @@
   "Provider": [
     {
       "Name": "ESA",
-      "Url": "https://sentinels.copernicus.eu/web/sentinel/home"
+      "Url": "https://sentinels.copernicus.eu/web/sentinel/hom"
     },
     {
       "Name": "EUMETSAT",
